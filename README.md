@@ -4,6 +4,8 @@
 The purpose of this analysis is to convince investors that a bike-sharing program in Desmoines is a solid business proposal.
 
 ## Results
+[link to dashboard](https://public.tableau.com/app/profile/jeffrey.au7418/viz/BikeSharing_16224258313750/Customers)
+
 There are 1.9 million subscribers and 443k customers of Citi Bike in NYC.
 
 ![customers](Resources/customers.PNG)
